@@ -1,1 +1,1 @@
-Example code to accompany a blog post detailing how to import external data into Sourcery Analyzer. Read the full blog post at INSERTURL.
+Example code to accompany a blog post detailing how to import external data into Sourcery Analyzer. Read the full blog post at http://blogs.mentor.com/embedded/blog/2013/04/18/linux-trace-without-lttng-hackin/
